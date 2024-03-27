@@ -9,7 +9,7 @@ git config user.name "idev-coder"
 git config user.email "idevcoder7@gmail.com"
 git pull
 git add _posts
-git add public/assets
+git add public
 git commit -m "Update %mydate%_%mytime%"
 git push
 pause
